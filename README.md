@@ -2,7 +2,7 @@
 
 Welcome to my personal web portfolio — crafted with precision, creative flair, and fully responsive design.
 
-🔗 [**Live Site**](https://alijakazi.github.io/portfolio/)
+🔗 Live site[**here**](https://alijakazi.github.io/portfolio/)
 
 ## ✨ Highlights
 - Responsive layout for mobile and desktop
@@ -25,4 +25,3 @@ Welcome to my personal web portfolio — crafted with precision, creative flair,
 
 Feel free to explore the source, give feedback, or fork and build your own!
 
-🚀 **Live Site:** [alijakazi.github.io/portfolio](https://alijakazi.github.io/portfolio/)
